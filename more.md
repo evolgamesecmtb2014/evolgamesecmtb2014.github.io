@@ -9,7 +9,7 @@ Theoretical developments in evolution and ecology have undergone a sea change si
 
 Based on the interest in the double minisymposium held at the last ECMTB we plan to run two sessions on “Game theory in ecology and evolution” for [ECMTB 2014][ecmtb] with ten speakers to take place during the conference i.e. between the 15th and the 19th of June 2014.
 
-##Organisers
+##Organizers
 
 ####Chaitanya S. Gokhale
 New Zealand Institute for Advanced Study, Massey University, Auckland, New Zealand. 
