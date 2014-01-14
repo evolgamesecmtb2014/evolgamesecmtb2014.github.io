@@ -13,11 +13,21 @@ about: 'more.html'
                     <img src="{{ page.logo}}" alt="Blog Logo" />
                 </a>
             {% endif %}
-            <h1 class="blog-title">{{ site.name}}</h1>
             <h2 class="blog-description"> 
                 {{ site.description }}. 
-                {% if page.about %} <a href='{{site.baseurl}}{{ page.about }}'> Learn More. </a> {% endif %}
+                {% if page.about %}  {% endif %}
             </h2>
+
+            <h1 class="blog-title">{{ site.name}}</h1>
+            <h2 class="blog-description"> 
+                Organizers
+            </h2>
+            <h2 class="blog-description"> 
+                Chaitanya S. Gokhale, Mark Broom & Arne Traulsen
+            </h2>
+            <h2 class="blog-description"> 
+            <a href='{{site.baseurl}}{{ page.about }}'> Learn More. </a>
+            </h2> 
         </div>
     </div>
 </header>
@@ -32,9 +42,9 @@ about: 'more.html'
             <h2 class="post-title"><a href="{{ post.url}}">{{ post.title }}</a></h2>
 
         </header>
-        <section class="post-excerpt">
+       <section class="post-excerpt">
             {{post.excerpt}}
-        </section>
+        </section> 
     </article>
 
     {% endfor %}
@@ -57,4 +67,7 @@ about: 'more.html'
     </nav>
     
 
+
+
 </main>
+
