@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Game Theory. Ecology. Evolution.</title>
+    <link>http://evolgamesecmtb2014.github.io</link>
+    <description>Minisymposium  in ECMTB 2014</description>
+    <pubDate>Mon, 13 Jan 2014 10:18:00 +0100</pubDate>
+    <item>
+      <title>Confirmed Speakers</title>
+      <link>http://evolgamesecmtb2014.github.io/jekyll/update/2014/01/13/welcome-to-jekyll.html</link>
+      <description>&lt;ul&gt;
+&lt;li&gt;Chris Argasinski (Institute of Mathematics, Warsaw)&lt;/li&gt;
+&lt;li&gt;Chris Cannings (The University of Sheffield)&lt;/li&gt;
+&lt;li&gt;Jacob Johannsson (Lund University)&lt;/li&gt;
+&lt;li&gt;Vlastimil Krivan (Academy of Sciences of the Czech Republic and the University of South Bohemia)&lt;/li&gt;
+&lt;li&gt;Kristian Lindgren (Chalmers University of Technology)&lt;/li&gt;
+&lt;li&gt;Torbjörn Lundh (Chalmers &amp;amp; University of Gothenburg)&lt;/li&gt;
+&lt;li&gt;Jacek Miękisz (University of Warsaw)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 13 Jan 2014 10:18:00 +0100</pubDate>
+      <dc:date>2014-01-13T10:18:00+01:00</dc:date>
+    </item>
+    <dc:date>2014-01-13T10:18:00+01:00</dc:date>
+  </channel>
+</rss>
