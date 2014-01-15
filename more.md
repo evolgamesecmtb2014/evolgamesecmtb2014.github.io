@@ -21,6 +21,6 @@ Mark.Broom.1 [at] city [dot] ac [dot] uk
 
 ####[Arne Traulsen][traulsenlinkout]Research Group for Evolutionary Theory, Max-Planck-Institute for Evolutionary Biology, August-Thienemann-Straße 2, 24306 Plön, Germany.traulsen [at] evolbio [dot] mpg [dot] de
 [ecmtb]:    http://ecmtb2014.org/welcome
-[gokhalelinkout]:    http://www.evolbio.mpg.de/~gokhale
+[gokhalelinkout]:    http://gokhalechaitanya.github.io
 [broomlinkout]:    http://www.city.ac.uk/engineering-maths/undergraduate/people/professor-mark-broom
-[traulsenlinkout]:    http://www.evolbio.mpg.de/~traulsen
+[traulsenlinkout]:    http://www.evolbio.mpg.de/16397/group_evolutionarytheory
