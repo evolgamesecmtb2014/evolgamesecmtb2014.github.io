@@ -2,7 +2,7 @@
 layout: post
 title:  "Confirmed Speakers"
 date:   2014-01-13 10:18:00
-categories: jekyll update
+categories: speakers
 comments: true
 ---
 

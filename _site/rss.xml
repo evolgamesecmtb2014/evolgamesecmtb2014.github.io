@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Game Theory in Ecology and Evolution.</title>
     <link>http://evolgamesecmtb2014.github.io</link>
@@ -11,7 +11,7 @@
     <pubDate>Mon, 13 Jan 2014 10:18:00 +0100</pubDate>
     <item>
       <title>Confirmed Speakers</title>
-      <link>http://evolgamesecmtb2014.github.io/jekyll/update/2014/01/13/welcome-to-jekyll.html</link>
+      <link>http://evolgamesecmtb2014.github.io/speakers/2014/01/13/confirmedspeakers.html</link>
       <description>&lt;ul&gt;
 &lt;li&gt;Chris Argasinski (Institute of Mathematics, Warsaw)&lt;/li&gt;
 &lt;li&gt;Chris Cannings (The University of Sheffield)&lt;/li&gt;
