@@ -10,6 +10,7 @@ comments: true
 
 
 + Chris Argasinski (Institute of Mathematics, Warsaw)
++ Lars Bach (Aarhus University)
 + Chris Cannings (The University of Sheffield)
 + Jacob Johannsson (Lund University)
 + Vlastimil Krivan (Academy of Sciences of the Czech Republic and the University of South Bohemia)
