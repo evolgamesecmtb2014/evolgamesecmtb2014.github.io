@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Jacek Miękisz"
+date:   2014-06-16 10:18:00
+categories: speakers
+comments: true
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/hauert.gif" alt="Hauert photo" align="right">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
+</footer>
+
+
+Institute of Applied Mathematics and Mechanics 
+Faculty of Mathematics, Informatics, and Mechanics 
+University of Warsaw 
+Banacha 2, 02-097 Warsaw, Poland 
+
+Research interests: 
+statistical mechanics, classical lattice-gas models without periodic ground states, quasicrystals, 
+nonperiodic tilings, evolutionary game theory, gene expression and regulation, time delays 
+
+##Time delays in stochastic models of evolutionary games
+
+
+###Abstract 
+It is usually assumed that interactions between individuals take place instantaneously and their effects are immediate. In reality, all social and biological processes take certain amount of time. It is natural therefore to introduce time delays into evolutionary game models.
+We will discuss combined effects of stochasticity and time delays in various finite-population, discrete-time evolutionary games. A state of a population of individuals is stochastically stable if it appears with a high frequency inthe limit of small stochastic perturbations of deterministic dynamics. We show the existence of a stochastically stable cycle in two-player games with a mixed evolutionarily stable strategy for any discrete time delay.The situation is much more complex in there-player games with two evolutionarily stable strategies, a mixed and a pure one. In particular, we show that if the basin of attraction of the mixed equilibrium is bigger than the one of the pure equilibrium, then there exists a critical time delay where the pure equilibrium becomes stochastically stable.Bibliography
+* J Alboszta and J Miękisz, Stability of evolutionarily stable strategies in discrete replicator dynamics with time delay, J. Theor. Biol. 231: 175-179 (2004).+ J Miękisz and S Wesołowski, Stochasticity and time delays in evolutionary games, Dynamic Games and Applications 1: 440-448 (2011).+ J Miękisz, Stochasticity and time delays in gene expression and evolutionary game theory, Probabilistic Engineering Mechanics 26: 33–38 (2011).+ J Miękisz and M Matuszak, Stochastic stability in three-player games with time delays, submitted to Dynamic Games and Applications (2013).

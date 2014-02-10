@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Torbjörn Lundh"
+date:   2014-06-16 10:18:00
+categories: speakers
+comments: true
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/hauert.gif" alt="Hauert photo" align="right">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
+</footer>
+
+###Bio
+Biträdande professor in mathematics at Department of Mathematical Sciences, Chalmers University of Technology and University of Gothenburg.
+
+##Title
+
+###Abstract

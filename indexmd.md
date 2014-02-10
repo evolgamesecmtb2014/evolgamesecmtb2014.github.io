@@ -34,24 +34,23 @@ about: 'more.html'
 
 <main class="content" role="main">
 
-
-    {% for post in paginator.posts limit:1 offset:8 %}
+    {% for post in paginator.posts %}
 
     <article class="post">
         <header class="post-header">
             <span class="post-meta">
             {{!tags prefix="on "}}</span>
-            <h1 class="post-title"><a href="{{ post.url}}">{{ post.title }}</a></h1>
+            <h2 class="post-title"><a href="{{ post.url}}">{{ post.title }}</a></h2>
 
         </header>
-      <!-- <section class="post-excerpt">
+       <section class="post-excerpt">
             {{post.excerpt}}
-        </section> -->
-
+        </section> 
     </article>
 
     {% endfor %}
-    <nav class="pagination" role="pagination">
+
+<!--    <nav class="pagination" role="pagination">
 
         {% if paginator.previous_page %}
           {% if paginator.previous_page == 1 %}
@@ -68,7 +67,7 @@ about: 'more.html'
         {% endif %} 
     </nav>
     
+-->
 
 
 </main>
-

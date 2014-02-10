@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Kristian Lindgren"
+date:   2014-06-16 10:18:00
+categories: speakers
+comments: true
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/hauert.gif" alt="Hauert photo" align="right">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
+</footer>
+
+###Bio
+Kristian Lindgren is professor in complex systems. He has a background in engineering physics, but since his graduate studies in the 1980's he has been working with complex systems in a variety of different disciplines. Some main areas are (i) information theory for complex and self-organizing systems, (ii) game theory for evolutionary systems, and (iii) agent-based modeling of economic systems. Since the mid 1990's Lindgren has also been working in the area of energy systems with development of models of regional and global energy systems in a climate change perspective.
+
+Lindgren is Director of the Graduate school (PhD) for Complex Systems at Chalmers, and he is teacher and examiner in the International Masters Programme in Complex Adaptive Systems.
+
+##Title
+
+###Abstract

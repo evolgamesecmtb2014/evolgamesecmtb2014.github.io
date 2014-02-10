@@ -1,30 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
-  version="2.0"
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
     <title>Game Theory in Ecology and Evolution.</title>
     <link>http://evolgamesecmtb2014.github.io</link>
     <description>Minisymposium  in ECMTB 2014</description>
-    <pubDate>Mon, 13 Jan 2014 10:18:00 +0100</pubDate>
+    <pubDate>Mon, 16 Jun 2014 10:18:00 +0200</pubDate>
     <item>
-      <title>Confirmed Speakers</title>
+      <title>Jacek Miękisz</title>
+      <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/miekisz.html</link>
+      <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/footer&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 16 Jun 2014 10:18:00 +0200</pubDate>
+      <dc:date>2014-06-16T10:18:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Torbjörn Lundh</title>
+      <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/lundh.html</link>
+      <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/footer&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 16 Jun 2014 10:18:00 +0200</pubDate>
+      <dc:date>2014-06-16T10:18:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Kristian Lindgren</title>
+      <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/lindgren.html</link>
+      <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/footer&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 16 Jun 2014 10:18:00 +0200</pubDate>
+      <dc:date>2014-06-16T10:18:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Vlastimil Křivan</title>
+      <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/krivan.html</link>
+      <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/footer&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 16 Jun 2014 10:18:00 +0200</pubDate>
+      <dc:date>2014-06-16T10:18:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Jacob Johannsson</title>
+      <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/johannsson.html</link>
+      <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/footer&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 16 Jun 2014 10:18:00 +0200</pubDate>
+      <dc:date>2014-06-16T10:18:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Chris Cannings</title>
+      <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/cannings.html</link>
+      <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/footer&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 16 Jun 2014 10:18:00 +0200</pubDate>
+      <dc:date>2014-06-16T10:18:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Lars Bach</title>
+      <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/bach.html</link>
+      <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/footer&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 16 Jun 2014 10:18:00 +0200</pubDate>
+      <dc:date>2014-06-16T10:18:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Chris Argasinski</title>
+      <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/argasinski.html</link>
+      <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/footer&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 16 Jun 2014 10:18:00 +0200</pubDate>
+      <dc:date>2014-06-16T10:18:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Speakers and Schedule</title>
       <link>http://evolgamesecmtb2014.github.io/speakers/2014/01/13/confirmedspeakers.html</link>
       <description>&lt;ul&gt;
-&lt;li&gt;Chris Argasinski (Institute of Mathematics, Warsaw)&lt;/li&gt;
-&lt;li&gt;Chris Cannings (The University of Sheffield)&lt;/li&gt;
-&lt;li&gt;Jacob Johannsson (Lund University)&lt;/li&gt;
-&lt;li&gt;Vlastimil Krivan (Academy of Sciences of the Czech Republic and the University of South Bohemia)&lt;/li&gt;
-&lt;li&gt;Kristian Lindgren (Chalmers University of Technology)&lt;/li&gt;
-&lt;li&gt;Torbjörn Lundh (Chalmers &amp;amp; University of Gothenburg)&lt;/li&gt;
-&lt;li&gt;Jacek Miękisz (University of Warsaw)&lt;/li&gt;
+&lt;li&gt;0900 - 0920 &lt;a href=&quot;%7B%%20post_url%202014-06-16-argasinski%20%%7D&quot;&gt;Chris Argasinski&lt;/a&gt; (Institute of Mathematics, Warsaw)&lt;/li&gt;
+&lt;li&gt;0920 - 0940  &lt;a href=&quot;%7B%%20post_url%202014-06-16-bach%20%%7D&quot;&gt;Lars Bach&lt;/a&gt; (Aarhus University)&lt;/li&gt;
+&lt;li&gt;0940 - 1000  &lt;a href=&quot;%7B%%20post_url%202014-06-16-cannings%20%%7D&quot;&gt;Chris Cannings&lt;/a&gt; (The University of Sheffield)&lt;/li&gt;
+&lt;li&gt;1030 - 1050  &lt;a href=&quot;%7B%%20post_url%202014-06-16-johannsson%20%%7D&quot;&gt;Jacob Johannsson&lt;/a&gt; (Lund University)&lt;/li&gt;
+&lt;li&gt;1050 - 1110  &lt;a href=&quot;%7B%%20post_url%202014-06-16-krivan%20%%7D&quot;&gt;Vlastimil Křivan&lt;/a&gt; (Academy of Sciences of the Czech Republic and the University of South Bohemia)&lt;/li&gt;
+&lt;li&gt;1110 - 1130  &lt;a href=&quot;%7B%%20post_url%202014-06-16-lindgren%20%%7D&quot;&gt;Kristian Lindgren&lt;/a&gt; (Chalmers University of Technology)&lt;/li&gt;
+&lt;li&gt;1130 - 1150  &lt;a href=&quot;%7B%%20post_url%202014-06-16-lundh%20%%7D&quot;&gt;Torbjörn Lundh&lt;/a&gt; (Chalmers &amp;amp; University of Gothenburg)&lt;/li&gt;
+&lt;li&gt;1150 - 1210  &lt;a href=&quot;%7B%%20post_url%202014-06-16-miekisz%20%%7D&quot;&gt;Jacek Miękisz&lt;/a&gt; (University of Warsaw)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
       <pubDate>Mon, 13 Jan 2014 10:18:00 +0100</pubDate>
       <dc:date>2014-01-13T10:18:00+01:00</dc:date>
     </item>
-    <dc:date>2014-01-13T10:18:00+01:00</dc:date>
+    <dc:date>2014-06-16T10:18:00+02:00</dc:date>
   </channel>
 </rss>

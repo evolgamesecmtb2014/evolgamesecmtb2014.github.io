@@ -17,8 +17,9 @@ archive: false
             </a>
         </header>
         
-        <span class="post-meta">
-        	<time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
+       <span class="post-meta">
+        	<!--<time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time> -->
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"><i class="icon-calendar-empty"></i> {{ page.date | date: "%H %M %p, %B %d, %Y" }}</time>
         	{% if page.categories %}
         		on
 	        	{% for category in page.categories %}
@@ -27,7 +28,7 @@ archive: false
 	        {% endif %}
        	</span>
 
-        <h1 class="post-title">{{ page.title }}</h1>
+        <h1 class="post-title">{{ page.title }}</h1> 
 
         <section class="post-content">
             {{content}}
@@ -79,6 +80,7 @@ archive: false
             </section>
             
             {% if page.disqus %}
+            <br>
             <section class="disqus">
             	<div id="disqus_thread"></div>
             	<script type="text/javascript">

@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Lars Bach"
+date:   2014-06-16 10:18:00
+categories: speakers
+comments: true
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/hauert.gif" alt="Hauert photo" align="right">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
+</footer>
+
+###Bio
+Assistant Professor 
+
+Department of Culture and Society - Interacting Minds Centre (IMC)
+Jens Chr. Skous Vej 4
+building 1483
+8000 Aarhus C
+Denmark,
+and 
+
+Interdisciplinary Center for Organizational Architecture (ICOA)
+Fuglesangs Allé 20
+building 2635, room I101A
+8210 Aarhus V
+Denmark
+
+##Title
+
+###Abstract

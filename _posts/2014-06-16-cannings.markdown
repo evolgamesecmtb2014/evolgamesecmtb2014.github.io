@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Chris Cannings"
+date:   2014-06-16 10:18:00
+categories: speakers
+comments: true
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/hauert.gif" alt="Hauert photo" align="right">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
+</footer>
+
+###Bio
+Professor 
+
+School of Mathematics and Statistics (SoMaS),
+The University of Sheffield
+
+Research interests include deterministic and stochastic modelling in evolutionary biology, population, molecular and human genetics. Current research projects lie within the areas of evolutionary games, theory of random graphs, combinatorics and stochastic processes.
+
+##Title
+
+###Abstract
