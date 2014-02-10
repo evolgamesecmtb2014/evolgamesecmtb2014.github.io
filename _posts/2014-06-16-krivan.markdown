@@ -11,14 +11,15 @@ comments: true
 <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
 </footer>
 
-###Bio
+
 Professor of applied mathematics 
 
 * Chair of Laboratory of Theoretical Ecology Institute of Entomology, Biology Center Academy of Sciences of the Czech republic
 
 * Chair of Department of Mathematics and Biomathematics, Faculty of Science University of  South Bohemia 
 
-My research focuses on applications of mathematics to biology and ecology.  In particular, I'm interested in links between animal behavior, population dynamics and evolutionary processes that preserve biodiversity on Earth. I study these links by creating mathematical models that allow me to discover new laws of biodiversity. To this end, I combine game theoretical methods with differential equations. These methodologies include theory of evolutionarily stable strategies,  theory of differential equations with discontinuous vector fields, control theory and differential inclusions. 
+Applications of mathematics to biology and ecology.  In particular, links between animal behavior, population dynamics and evolutionary processes that preserve biodiversity on Earth. 
+Game theoretical methods with differential equations, theory of evolutionarily stable strategies, differential equations with discontinuous vector fields, control theory and differential inclusions. 
 
 
 ##Title

@@ -11,7 +11,7 @@ comments: true
 <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
 </footer>
 
-###Bio
+
 Biträdande professor in mathematics at Department of Mathematical Sciences, Chalmers University of Technology and University of Gothenburg.
 
 ##Title

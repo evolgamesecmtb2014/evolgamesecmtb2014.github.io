@@ -11,7 +11,7 @@ comments: true
 <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
 </footer>
 
-###Bio
+
 Department of Mathematics
 Institute of Mathematics, Polish Academy of Sciences
 

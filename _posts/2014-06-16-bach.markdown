@@ -7,11 +7,11 @@ comments: true
 ---
 
 <footer class="entry-meta">
-<img src="{{ site.url }}/images/bach" alt="Bach photo" align="right">
+<img src="{{ site.url }}/images/bach.jpg" alt="Bach photo" align="right">
 <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
 </footer>
 
-###Bio
+
 Assistant Professor 
 
 Department of Culture and Society - Interacting Minds Centre (IMC)

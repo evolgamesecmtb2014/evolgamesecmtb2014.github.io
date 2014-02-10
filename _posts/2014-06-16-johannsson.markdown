@@ -11,7 +11,7 @@ comments: true
 <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
 </footer>
 
-###Bio
+
 Theoretical 
 Population ecology and 
 Evolution 
