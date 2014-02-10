@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
     <title>Game Theory in Ecology and Evolution.</title>
@@ -13,7 +13,7 @@
       <title>Jacek Miękisz</title>
       <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/miekisz.html</link>
       <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
-&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/miekisz.jpg&quot; alt=&quot;Miekisz photo&quot; align=&quot;right&quot;&gt;
 &lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;/footer&gt;&lt;/p&gt;
 </description>
@@ -24,7 +24,7 @@
       <title>Torbjörn Lundh</title>
       <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/lundh.html</link>
       <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
-&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/lundh.jpg&quot; alt=&quot;Lundh photo&quot; align=&quot;right&quot;&gt;
 &lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;/footer&gt;&lt;/p&gt;
 </description>
@@ -35,7 +35,7 @@
       <title>Kristian Lindgren</title>
       <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/lindgren.html</link>
       <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
-&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/lindgren.jpg&quot; alt=&quot;Lindgren photo&quot; align=&quot;right&quot;&gt;
 &lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;/footer&gt;&lt;/p&gt;
 </description>
@@ -46,7 +46,7 @@
       <title>Vlastimil Křivan</title>
       <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/krivan.html</link>
       <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
-&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/krivan.jpg&quot; alt=&quot;Krivan photo&quot; align=&quot;right&quot;&gt;
 &lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;/footer&gt;&lt;/p&gt;
 </description>
@@ -57,7 +57,7 @@
       <title>Jacob Johannsson</title>
       <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/johannsson.html</link>
       <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
-&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/jjohansson.jpg&quot; alt=&quot;Johansson photo&quot; align=&quot;right&quot;&gt;
 &lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;/footer&gt;&lt;/p&gt;
 </description>
@@ -68,7 +68,7 @@
       <title>Chris Cannings</title>
       <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/cannings.html</link>
       <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
-&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/cannings.jpg&quot; alt=&quot;Cannings photo&quot; align=&quot;right&quot;&gt;
 &lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;/footer&gt;&lt;/p&gt;
 </description>
@@ -79,7 +79,7 @@
       <title>Lars Bach</title>
       <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/bach.html</link>
       <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
-&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/bach&quot; alt=&quot;Bach photo&quot; align=&quot;right&quot;&gt;
 &lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;/footer&gt;&lt;/p&gt;
 </description>
@@ -90,7 +90,7 @@
       <title>Chris Argasinski</title>
       <link>http://evolgamesecmtb2014.github.io/speakers/2014/06/16/argasinski.html</link>
       <description>&lt;p&gt;&lt;footer class=&quot;entry-meta&quot;&gt;
-&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/hauert.gif&quot; alt=&quot;Hauert photo&quot; align=&quot;right&quot;&gt;
+&lt;img src=&quot;http://evolgamesecmtb2014.github.io/images/argasinski.jpg&quot; alt=&quot;Argasinski photo&quot; align=&quot;right&quot;&gt;
 &lt;span class=&quot;author vcard&quot; itemprop=&quot;author&quot; itemscope itemtype=&quot;http://schema.org/Person&quot;&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;/footer&gt;&lt;/p&gt;
 </description>
