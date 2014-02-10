@@ -7,7 +7,7 @@ comments: true
 ---
 
 <footer class="entry-meta">
-<img src="{{ site.url }}/images/hauert.gif" alt="Hauert photo" align="right">
+<img src="{{ site.url }}/images/bach" alt="Bach photo" align="right">
 <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
 </footer>
 
