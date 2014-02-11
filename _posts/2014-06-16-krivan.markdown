@@ -22,6 +22,12 @@ Applications of mathematics to biology and ecology.  In particular, links betwee
 Game theoretical methods with differential equations, theory of evolutionarily stable strategies, differential equations with discontinuous vector fields, control theory and differential inclusions. 
 
 
-##Title
+##The optimal foraging game
 
 ###Abstract
+In a multi-prey environments, the optimal foraging theory predicts a forager’s diet that encounters two or more prey types sequentially.
+The predictions are based on maximization of a generalized multi-prey Holling type II functional response. The results predict that the most profitable prey type will always be included in the predator’s diet.
+The other, less profitable  prey types will either be included, or
+excluded from the diet. This result is known as the 0-1 rule of the optimal foraging theory. In my talk I will discuss how these results can be obtained in context of the game theory. In particular, I will discuss how a functional response can be derived  using decision trees. Solutions of the foraging game are then sought in the form of an agent normal form. In particular, I provide some conditions under which the solution of the optimal foraging theory coincides with the Nash equilibrium of the foraging game. I will show examples where predators can encounter prey types simultaneously, or the predator requires a positive recognition time to identify the type of prey encountered.
+
+R\. Cressman, V. Krivan, J. S. Brown,  J. Garay: Game-theoretic methods for functional response and optimal foraging behavior, Plos One, 2014.
