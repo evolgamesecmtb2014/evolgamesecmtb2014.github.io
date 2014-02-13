@@ -18,7 +18,7 @@ comments: true
 + 1130 - 1150  [Torbjörn Lundh]({% post_url 2014-06-16-lundh %}) (Chalmers & University of Gothenburg)
 + 1150 - 1210  [Jacek Miękisz]({% post_url 2014-06-16-miekisz %}) (University of Warsaw) --->
 
-+ [Chris Argasinski]({% post_url 2014-06-16-argasinski %}) (Institute of Mathematics, Warsaw)
++ [Krzysztof Argasinski]({% post_url 2014-06-16-argasinski %}) (Institute of Mathematics, Warsaw)
 + [Lars Bach]({% post_url 2014-06-16-bach %}) (Aarhus University)
 + [Chris Cannings]({% post_url 2014-06-16-cannings %}) (The University of Sheffield)
 + [Jacob Johannsson]({% post_url 2014-06-16-johannsson %}) (Lund University)
