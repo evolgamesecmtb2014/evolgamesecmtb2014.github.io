@@ -13,7 +13,7 @@ comments: true
 
 
 Institute of Applied Mathematics and Mechanics 
-Faculty of Mathematics, Informatics, and Mechanics 
+Faculty of Mathematics, Informatics, and Mechanics, 
 University of Warsaw 
 Banacha 2, 02-097 Warsaw, Poland 
 

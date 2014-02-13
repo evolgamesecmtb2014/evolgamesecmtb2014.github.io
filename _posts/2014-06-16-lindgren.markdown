@@ -15,11 +15,11 @@ comments: true
 Professor in complex systems. 
 Director of the Graduate school (PhD) for Complex Systems at Chalmers
 
-He has a background in engineering physics, 
+He has a background in engineering physics with interests in
 (i) information theory for complex and self-organizing systems, (ii) game theory for evolutionary systems, and 
 (iii) agent-based modeling of economic systems. 
 
-Also energy systems with development of models of regional and global energy systems in a climate change perspective.
+Also development of models of regional and global energy systems in a climate change perspective.
 
 
 ##Title
