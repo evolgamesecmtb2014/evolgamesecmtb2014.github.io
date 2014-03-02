@@ -18,11 +18,11 @@ comments: true
 + 1130 - 1150  [Torbjörn Lundh]({% post_url 2014-06-16-lundh %}) (Chalmers & University of Gothenburg)
 + 1150 - 1210  [Jacek Miękisz]({% post_url 2014-06-16-miekisz %}) (University of Warsaw) --->
 
-+ [Krzysztof Argasinski]({% post_url 2014-06-16-argasinski %}) (Institute of Mathematics, Warsaw)
++ [Krzysztof Argasinski]({% post_url 2014-06-16-argasinski %}) (Natural selection under limited population growth. Replicator dynamics and eco-evolutionary feedback.)
 + [Lars Bach]({% post_url 2014-06-16-bach %}) (Aarhus University)
-+ [Chris Cannings]({% post_url 2014-06-16-cannings %}) (The University of Sheffield)
-+ [Jacob Johannsson]({% post_url 2014-06-16-johannsson %}) (Lund University)
-+ [Vlastimil Křivan]({% post_url 2014-06-16-krivan %}) (Academy of Sciences of the Czech Republic and the University of South Bohemia)
++ [Chris Cannings]({% post_url 2014-06-16-cannings %}) (Combinatorial Aspects of Parker's model)
++ [Jacob Johannsson]({% post_url 2014-06-16-johannsson %}) (Game theory and adaptation of reproductive phenology to climate change in birds with dominance hierarchies)
++ [Vlastimil Křivan]({% post_url 2014-06-16-krivan %}) (The optimal foraging game)
 + [Kristian Lindgren]({% post_url 2014-06-16-lindgren %}) (Chalmers University of Technology)
 + [Torbjörn Lundh]({% post_url 2014-06-16-lundh %}) (Chalmers & University of Gothenburg)
-+ [Jacek Miękisz]({% post_url 2014-06-16-miekisz %}) (University of Warsaw)
++ [Jacek Miękisz]({% post_url 2014-06-16-miekisz %}) (Time delays in stochastic models of evolutionary games)
