@@ -24,5 +24,5 @@ comments: true
 + [Jacob Johannsson]({% post_url 2014-06-16-johannsson %}) (*Game theory and adaptation of reproductive phenology to climate change in birds with dominance hierarchies*)
 + [Vlastimil Křivan]({% post_url 2014-06-16-krivan %}) (*The optimal foraging game*)
 + [Kristian Lindgren]({% post_url 2014-06-16-lindgren %}) (*Evolutionary Exploration of the Finitely Repeated Prisoners’ Dilemma - The Effect of Out-of-Equilibrium Play*)
-+ [Torbjörn Lundh]({% post_url 2014-06-16-lundh %}) (*Title*)
++ [Torbjörn Lundh]({% post_url 2014-06-16-lundh %}) (*Cross-feeding as a game*)
 + [Jacek Miękisz]({% post_url 2014-06-16-miekisz %}) (*Time delays in stochastic models of evolutionary games*)
