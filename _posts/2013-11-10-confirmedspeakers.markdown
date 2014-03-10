@@ -18,6 +18,8 @@ comments: true
 + 1130 - 1150  [Torbjörn Lundh]({% post_url 2014-06-16-lundh %}) (Chalmers & University of Gothenburg)
 + 1150 - 1210  [Jacek Miękisz]({% post_url 2014-06-16-miekisz %}) (University of Warsaw) --->
 
+A schedule will be put up as soon!
+
 + [Krzysztof Argasinski]({% post_url 2014-06-16-argasinski %}) (*Natural selection under limited population growth. Replicator dynamics and eco-evolutionary feedback.*)
 + [Lars Bach]({% post_url 2014-06-16-bach %}) (*Title*)
 + [Chris Cannings]({% post_url 2014-06-16-cannings %}) (*Combinatorial Aspects of Parker's model*)
