@@ -37,9 +37,9 @@ Note: The mini symposium is scheduled on the first day of the conference right i
 ***
 
 
-##Monday 16<sup>th</sup> June 2014
+##Monday 16<sup>th</sup> June 2014 (0900 - 1300)
 
-###Session 1	Chair:tba
+####Session 1	Chair:tba
 
 
 * 0900 - 0925
@@ -53,7 +53,7 @@ Note: The mini symposium is scheduled on the first day of the conference right i
 
 ####1015 - 1045 Coffee Break
 
-###Session 2	Chair:tba
+####Session 2	Chair:tba
 
 
 * 1045 - 1110
