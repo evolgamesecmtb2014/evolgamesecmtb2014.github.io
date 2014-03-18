@@ -43,13 +43,13 @@ Note: The mini symposium is scheduled on the first day of the conference right i
 
 
 * 0900 - 0925
-	* [Jacek Miękisz]({% post_url 2014-06-16-miekisz %}) (*Time delays in stochastic models of evolutionary games*)
+	* [Jacek Miękisz (*Time delays in stochastic models of evolutionary games*)]({% post_url 2014-06-16-miekisz %}) 
 
 * 0925 - 0950
-	* [Chris Cannings]({% post_url 2014-06-16-cannings %}) (*Combinatorial Aspects of Parker's model*)
+	* [Chris Cannings (*Combinatorial Aspects of Parker's model*)]({% post_url 2014-06-16-cannings %}) 
 	
 * 0950 - 1015
-	* [Vlastimil Křivan]({% post_url 2014-06-16-krivan %}) (*The optimal foraging game*)
+	* [Vlastimil Křivan (*The optimal foraging game*)]({% post_url 2014-06-16-krivan %}) 
 
 ####1015 - 1045 Coffee Break
 
@@ -57,19 +57,19 @@ Note: The mini symposium is scheduled on the first day of the conference right i
 
 
 * 1045 - 1110
-	* [Jacob Johannsson]({% post_url 2014-06-16-johannsson %}) (*Game theory and adaptation of reproductive phenology to climate change in birds with dominance hierarchies*)
+	* [Jacob Johannsson (*Game theory and adaptation of reproductive phenology to climate change in birds with dominance hierarchies*)]({% post_url 2014-06-16-johannsson %}) 
 
 * 1110 - 1135
-	* [Torbjörn Lundh]({% post_url 2014-06-16-lundh %}) (*Cross-feeding as a game*)
+	* [Torbjörn Lundh (*Cross-feeding as a game*)]({% post_url 2014-06-16-lundh %}) 
 
 * 1135 - 1200
-	* [Kristian Lindgren]({% post_url 2014-06-16-lindgren %}) (*Evolutionary Exploration of the Finitely Repeated Prisoners’ Dilemma - The Effect of Out-of-Equilibrium Play*)
+	* [Kristian Lindgren (*Evolutionary Exploration of the Finitely Repeated Prisoners’ Dilemma - The Effect of Out-of-Equilibrium Play*)]({% post_url 2014-06-16-lindgren %}) 
 
 * 1200 - 1225
-	* [Lars Bach]({% post_url 2014-06-16-bach %}) (*tba*)
+	* [Lars Bach (*tba*)]({% post_url 2014-06-16-bach %}) 
 
 * 1225 - 1250
-	* [Krzysztof Argasinski]({% post_url 2014-06-16-argasinski %}) (*Natural selection under limited population growth. Replicator dynamics and eco-evolutionary feedback.*)
+	* [Krzysztof Argasinski (*Natural selection under limited population growth. Replicator dynamics and eco-evolutionary feedback.*)]({% post_url 2014-06-16-argasinski %}) 
 	
 * 1250 - 1300
 	* Closing Comments
