@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Krzysztof Argasinski"
-date:   2014-06-16 10:18:00
+date:   2014-06-16 12:25:00
 categories: speakers
 comments: true
 ---
