@@ -48,7 +48,7 @@ Note: The mini symposium is scheduled on the first day of the conference right i
 * 0930 - 1000
 	* [Kristian Lindgren (*Evolutionary Exploration of the Finitely Repeated Prisoners’ Dilemma - The Effect of Out-of-Equilibrium Play*)]({% post_url 2014-06-16-lindgren %}) 
 
-####1000 - 1030 Coffee Break	
+#####1000 - 1030 Coffee Break	
 
 * 1030 - 1100
 	* [Vlastimil Křivan (*The optimal foraging game*)]({% post_url 2014-06-16-krivan %}) 
@@ -57,22 +57,24 @@ Note: The mini symposium is scheduled on the first day of the conference right i
 	* [Jacob Johannsson (*Game theory and adaptation of reproductive phenology to climate change in birds with dominance hierarchies*)]({% post_url 2014-06-16-johannsson %})
 
 
-####1130 - 1140 Break
+#####1130 - 1140 Break
 
 ####Session 2	Chair:tba
  
 
 * 1140 - 1205
-	* [Maria Abou Chakra (*Cross-feeding as a game*)]({% post_url 2014-06-16-abouchakra %})
+	* [Maria Abou Chakra (*Collective-risk dilemmas and risky climate game*)]({% post_url 2014-06-16-abouchakra %})
 
 * 1140 - 1205
-	* [Weini Huang (*Cross-feeding as a game*)]({% post_url 2014-06-16-huang %})
+	* [Weini Huang (*tba*)]({% post_url 2014-06-16-huang %})
 
 * 1230 - 1300
 	* [Krzysztof Argasinski (*Natural selection under limited population growth. Replicator dynamics and eco-evolutionary feedback.*)]({% post_url 2014-06-16-argasinski %})
 
 
-####1300 - 1400 Lunch
+#####1300 - 1400 Lunch
+
+####Session 3	Chair:tba
 
 * 1400 - 1430
 	* [Chris Cannings (*Combinatorial Aspects of Parker's model*)]({% post_url 2014-06-16-cannings %}) 
