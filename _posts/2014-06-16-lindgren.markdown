@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kristian Lindgren"
-date:   2014-06-16 11:35:00
+date:   2014-06-16 09:30:00
 categories: speakers
 comments: true
 ---

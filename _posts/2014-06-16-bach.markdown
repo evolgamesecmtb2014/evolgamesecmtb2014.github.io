@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lars Bach"
-date:   2014-06-16 12:00:00
+date:   2014-06-16 15:00:00
 categories: speakers
 comments: true
 ---

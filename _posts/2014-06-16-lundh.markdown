@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Torbjörn Lundh"
-date:   2014-06-16 11:10:00
+date:   2014-06-16 14:30:00
 categories: speakers
 comments: true
 ---

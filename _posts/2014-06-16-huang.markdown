@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Weini Huang"
+date:   2014-06-16 12:05:00
+categories: speakers
+comments: true
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/huang.jpg" alt="Huang photo" align="right">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
+</footer>
+
+
+Max Planck Institute for Evolutionary Biology
+August Thienemann Str-2
+24306, Ploen, Germany
+
+Research interests: 
+
+
+##tba
