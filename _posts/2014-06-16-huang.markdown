@@ -19,6 +19,8 @@ August Thienemann Str-2
 Research interests: 
 Evolutionary game theory, population genetics
 
-##tba
+##Evolutionary game dynamics under demographic fluctuations 
 
 ####Abstract
+
+Frequency dependent selection arises from interactions between different types. Under frequency dependent selection, the average fitness of the whole population may increase or decrease under mutations. This can lead to fluctuations in population size even in a constant environment. Thus, frequency dependent selection and demographic stochasticity are indivisible in some biological systems. Here, we propose a stochastic approach to combine these two evolutionary ingredients naturally. We assume competitive interactions based on evolutionary games, which result in changing population size. In the limit of large populations, the averaged stochastic dynamics can be captured by the deterministic rate equations. In small populations, stochastic dynamics can lead to the extinction of the whole population. 
