@@ -41,7 +41,7 @@ Note: The mini symposium is scheduled on the first day of the conference right i
 	* [Maria Abou Chakra (*Collective-risk dilemmas and risky climate game*)]({% post_url 2014-06-16-abouchakra %})
 
 * 1205 - 1230
-	* [Weini Huang (*tba*)]({% post_url 2014-06-16-huang %})
+	* [Weini Huang (*Evolutionary game dynamics under demographic fluctuations*)]({% post_url 2014-06-16-huang %})
 
 * 1230 - 1300
 	* [Krzysztof Argasinski (*Natural selection under limited population growth. Replicator dynamics and eco-evolutionary feedback.*)]({% post_url 2014-06-16-argasinski %})
