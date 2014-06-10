@@ -8,7 +8,8 @@ comments: true
 
 
 ***
-Note: The mini symposium is scheduled on the first day of the conference right in the first session.
+Note: The mini symposium is scheduled on the first day of the conference in parallel to the plenaries.
+Location: Valdemar 
 ***
 
 
