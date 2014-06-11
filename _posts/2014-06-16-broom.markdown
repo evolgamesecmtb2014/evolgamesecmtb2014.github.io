@@ -22,4 +22,4 @@ Mark's research interests are in Mathematical Biology, in particular Evolutionar
 ##You can run or you can hide: games between searching predators and hidden prey
 
 ###Abstract
-tba**Key Words** multiplayer games, dynamics, predator-prey.
+tba
