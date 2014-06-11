@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Mark Broom"
+date:   2014-06-16 14:00:00
+categories: speakers
+comments: true
+---
+
+<footer class="entry-meta">
+<img src="{{ site.url }}/images/broom.jpg" alt="Broom photo" align="right">
+<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
+</footer>
+
+
+Professor of Mathematics 
+
+School of Engineering and Mathematical Sciences, 
+Mathematical Science, City University London
+
+Mark's research interests are in Mathematical Biology, in particular Evolutionary Game Theory. This includes both theoretical work on general games and the modelling of specific animal behaviours. Main research areas include multiplayer game theory, models of food stealing (kleptoparasitism), the signalling behaviour of prey species, and evolutionary processes on graphs.
+
+##You can run or you can hide: games between searching predators and hidden prey
+
+###Abstract
+tba**Key Words** multiplayer games, dynamics, predator-prey.

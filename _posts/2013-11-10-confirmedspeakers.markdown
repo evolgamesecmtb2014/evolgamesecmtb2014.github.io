@@ -53,7 +53,7 @@ Location: Valdemar
 ####Session 3	Chair:tba
 
 * 1400 - 1430
-	* [Chris Cannings (*Combinatorial Aspects of Parker's model*)]({% post_url 2014-06-16-cannings %}) 
+	* [Mark Broom (*You can run or you can hide: games between searching predators and hidden prey*)]({% post_url 2014-06-16-broom %}) 
 
 * 1430 - 1500
 	* [Torbjörn Lundh (*Cross-feeding as a game*)]({% post_url 2014-06-16-lundh %}) 

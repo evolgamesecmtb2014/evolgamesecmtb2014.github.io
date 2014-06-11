@@ -1,25 +1,0 @@
----
-layout: post
-title:  "Chris Cannings"
-date:   2014-06-16 14:00:00
-categories: speakers
-comments: true
----
-
-<footer class="entry-meta">
-<img src="{{ site.url }}/images/cannings.jpg" alt="Cannings photo" align="right">
-<span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"></a></span></span>
-</footer>
-
-
-Professor 
-
-School of Mathematics and Statistics (SoMaS),
-The University of Sheffield
-
-Research interests include deterministic and stochastic modelling in evolutionary biology, population, molecular and human genetics. Current research projects lie within the areas of evolutionary games, theory of random graphs, combinatorics and stochastic processes.
-
-##Combinatorial Aspects of Parker's model
-
-###Abstract
-Individuals are located at the vertices of the (simple) graph G = (V, E), and at time t play either 0 or 1. At time (t + 1) an individual will play 0 if, and only if, more of their neighbours were playing 0 at time t than were playing 1 at time t. This is the Majority Game, and we shall assume that all vertices have odd degree so that there is never equal numbers of 0’s and 1’s amongst neighbours. This game is a special case of a threshold game and so the system must converge to fixed point or to a two cycle. We shall explore features of the dynamics on some particular regular graphs, most importantly the hypercube.The Minority game is dual to this. At (t + 1) an individual will play 0 if, and only if, more of their neighbours were playing 1 at time t than were playing 0 at time t. We shall briefly examine some of the consequences of having a mixture of majority players and minority players, when the dynamics is more complex than the ”homogeneous” game.**Key Words** majority/minority game, dynamics, thresholds, cycles.
