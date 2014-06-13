@@ -15,7 +15,7 @@ Location: Valdemar
 
 ##Monday 16<sup>th</sup> June 2014 (0900 - 1300)
 
-####Session 1	Chair:tba
+####Session 1	Chair: Mark Broom
 
 
 * 0900 - 0930
@@ -35,7 +35,7 @@ Location: Valdemar
 
 #####1130 - 1140 Break
 
-####Session 2	Chair:tba
+####Session 2	Chair: Chaitanya S. Gokhale
  
 
 * 1140 - 1205
@@ -50,7 +50,7 @@ Location: Valdemar
 
 #####1300 - 1400 Lunch
 
-####Session 3	Chair:tba
+####Session 3	Chair: Arne Traulsen
 
 * 1400 - 1430
 	* [Mark Broom (*You can run or you can hide: games between searching predators and hidden prey*)]({% post_url 2014-06-16-broom %}) 
