@@ -59,4 +59,4 @@ Location: Valdemar
 	* [Torbjörn Lundh (*Cross-feeding as a game*)]({% post_url 2014-06-16-lundh %}) 
 
 * 1500 - 1530
-	* [Lars Bach (*tba*)]({% post_url 2014-06-16-bach %}) 
+	* [Lars Bach (*The evolution of trust*)]({% post_url 2014-06-16-bach %}) 
